@@ -1,9 +1,11 @@
 {
   "name": "musicsharing",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "build index.html"
   },
   "repository": {
     "type": "git",
@@ -16,12 +18,12 @@
   },
   "homepage": "https://github.com/ellietms/Music-Sharing#readme",
   "keywords": [],
-  "description": "",
   "dependencies": {
     "aws-amplify": "^3.3.4"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "parcel-bundler": "^1.12.4"
-  }
+  },
+  "description": ""
 }
