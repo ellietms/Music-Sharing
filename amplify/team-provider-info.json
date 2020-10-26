@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-musicsharing-dev-180219-authRole",
+      "UnauthRoleArn": "arn:aws:iam::203790433308:role/amplify-musicsharing-dev-180219-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::203790433308:role/amplify-musicsharing-dev-180219-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-musicsharing-dev-180219-deployment",
+      "UnauthRoleName": "amplify-musicsharing-dev-180219-unauthRole",
+      "StackName": "amplify-musicsharing-dev-180219",
+      "StackId": "arn:aws:cloudformation:us-west-2:203790433308:stack/amplify-musicsharing-dev-180219/66aff8a0-17b5-11eb-9b5b-0aa772971980",
+      "AmplifyAppId": "d2i33fpt0eh5av"
+    },
+    "categories": {
+      "auth": {
+        "musicsharing9e6919f7": {}
+      }
+    }
+  }
+}

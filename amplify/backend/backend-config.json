@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "musicsharing9e6919f7": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "musicsharing": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
